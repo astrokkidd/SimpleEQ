@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FILTERGRAPH>
-  <FILTER uid="1" x="0.545" y="0.3024193548387097" useARA="0">
+  <FILTER uid="1" x="0.6729088639200999" y="0.2332657200811359" useARA="0">
     <PLUGIN name="Audio Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="246006c0"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.31375" y="0.6133603238866396" useARA="0" uiLastX_Normal="1010"
-          uiLastY_Normal="293" uiopen_Normal="0">
+  <FILTER uid="5" x="0.31375" y="0.6133603238866396" useARA="0" uiLastX_Normal="1477"
+          uiLastY_Normal="256" uiopen_Normal="0">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="M:\Documents\JUCE\SimpleEQ\Builds\VisualStudio2019\x64\Debug\VST3\SimpleEQ.vst3"
-            uniqueId="f4a8de28" isInstrument="0" fileTime="18b6f2ed2a4" infoUpdateTime="18b6f39ca71"
+            uniqueId="f4a8de28" isInstrument="0" fileTime="18db3873325" infoUpdateTime="18db38a3262"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e9548059"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -78,13 +78,13 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="9" x="0.13" y="0.402834008097166" useARA="0" uiLastX_Normal="318"
-          uiLastY_Normal="356" uiopen_Normal="0">
+  <FILTER uid="9" x="0.13" y="0.402834008097166" useARA="0" uiLastX_Normal="126"
+          uiLastY_Normal="406" uiopen_Normal="1">
     <PLUGIN name="AUv3 Synth" format="Internal" category="Synth" manufacturer="JUCE"
             version="1.0.0" file="AUv3 Synth" uniqueId="e86c6fed" isInstrument="1"
             fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="2"
             isShell="0" hasARAExtension="0" uid="e86c6fed"/>
-    <STATE>8....f+......</STATE>
+    <STATE>8....f+rdT38C</STATE>
     <LAYOUT>
       <INPUTS/>
       <OUTPUTS>
